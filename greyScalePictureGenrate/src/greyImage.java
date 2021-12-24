@@ -21,6 +21,7 @@ public class greyImage {
         return newPixel;
     }
 
+    //cool
     public static void generateGreyImage(String imagePath) throws IOException {
         //open the image as a file object
         File coloredImage = new File(imagePath);
